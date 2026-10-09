@@ -33,6 +33,10 @@ span {
     background-color: aliceblue;
 }
 
+.sub_sub_bg_color {
+    background-color: #deebf7
+}
+
 h2 {
     color: #99B7DC;
     font-size: 25px;
